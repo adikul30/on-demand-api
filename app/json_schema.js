@@ -1,0 +1,1 @@
+module.exports = '{"title": "String" ,"description": "String", "city": "String" }'
