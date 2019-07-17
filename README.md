@@ -6,7 +6,7 @@ Fully managed CRUD(for now) API service.
 
 ### Why use it ?
 <hr>
-No need to handle a **database, a server or an API**. <br>
+No need to handle a __database, a server or an API__. <br>
 REST endpoints for basic CRUD operations with personalised schema within seconds (No need to wait for the backend guy in the team :P). 
 
 ### Use Case ?
@@ -18,3 +18,4 @@ Testing out networking logic on app side.
 <hr>
 Name your endpoint and upload your schema as a JSON. <br>
 That's it. 
+
