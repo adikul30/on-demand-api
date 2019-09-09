@@ -19,3 +19,10 @@ Testing out networking logic on app side.
 Name your endpoint and upload your schema as a JSON. <br>
 That's it. 
 
+### Progress
+<hr>
+TODO: 
+<br>
+- [x] Concept tested by using dummy JSON schema as a stub. 
+- [ ] UI for accepting schemas from user. 
+- [ ] Authentication module. 
