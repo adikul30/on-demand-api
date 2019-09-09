@@ -23,6 +23,7 @@ That's it.
 <hr>
 TODO: 
 <br>
+
 - [x] Concept tested by using dummy JSON schema as a stub. 
 - [ ] UI for accepting schemas from user. 
 - [ ] Authentication module. 
